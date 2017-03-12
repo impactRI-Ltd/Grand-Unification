@@ -1,5 +1,5 @@
 
-- Writing a **mission statement**, it will help when we reach out to others to join our group. 
+- Write a **mission statement**, it will help when we reach out to others to join our group. 
 - Develop **The Grand Unification**: [GitHub](https://github.com/impactRI-Ltd/Grand-Unification/blob/master/README.md)
 - Use [Slack](https://hrualumni.slack.com) for now as a communications platform
 - Use [Metamaps](https://metamaps.cc/maps/2761) to visualize the Grand-Unification and make sense of it all.
