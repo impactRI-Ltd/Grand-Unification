@@ -8,5 +8,4 @@
 - Experiment with [Qiark](https://www.qiark.com/index.php) as a tool to make sense out of online discussions.
 - Investigate having our main hub on [Podio](https://podio.com/) 
 - Integrate the GitHub and Metamaps activities on Slack. 
-- Build  [wiki lexicon on GitHub](https://github.com/impactRI-Ltd/Grand-Unification/wiki/Lexicon). 
 - Read [Whiplash](http://boingboing.net/2016/12/06/whiplash-joi-itos-nine-prin.html)
